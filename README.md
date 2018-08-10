@@ -4,7 +4,9 @@ For MAC
 
 Download installer from: https://dl.google.com/go/go1.10.3.darwin-amd64.tar.gz
 
-check go installation directory : /usr/local/go
+check go installation directory
+
+ /usr/local/go
 
 ## GO project structure ##
 cd							## change directory to home folder
