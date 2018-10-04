@@ -2,8 +2,9 @@ Getting Started
 ## Setting up Go ##
 For MAC 
 
-Download installer from: https://dl.google.com/go/go1.10.3.darwin-amd64.tar.gz
+Download installer from: https://golang.org/doc/install?download=go1.11.1.darwin-amd64.tar.gz
 
+tar -C /usr/local -xzf go1.11.1.darwin-amd64.tar.gz
 check go installation directory
 
  /usr/local/go
